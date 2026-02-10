@@ -3,9 +3,13 @@
 A laboratory focused on building high-performance data transfer and productivity tools.
 
 ### 🧪 Our Lab Projects
-- **[File-Shuttle](https://github.com/ShuttleLab/file-shuttle)**: High-speed file transfer tool.
-- **[Message-Shuttle](https://github.com/ShuttleLab/message-shuttle)**: Simple message relay service.
-- More...
+
+- **[File-Shuttle](https://file.shuttlelab.org/)**: High-speed file transfer tool.
+- **[Json-Shuttle](https://json.shuttlelab.org/)**: Validate, format, and fix JSON quickly.
+- **[Music-Shuttle](https://music.shuttlelab.org/)**: Music player with smart caching for a fast, private experience.
+- **[Message-Shuttle](https://msg.shuttlelab.org/)**: Simple,fast message relay service.
+- **[ClipBoard-Shuttle](https://clipboard.shuttlelab.org/)**: Sync content across phones, computers, and other devices.
+- **[More...](https://shuttlelab.org)**
 
 ### 🌐 Connect with us
 - Website: [shuttlelab.org](https://shuttlelab.org)
