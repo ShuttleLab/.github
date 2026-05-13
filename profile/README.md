@@ -5,6 +5,7 @@ A laboratory focused on building high-performance data transfer and productivity
 ### 🧪 Our Lab Projects
 
 - **[Note-Shuttle](https://note.shuttlelab.org/)**: Easy-to-use notebook.
+- **[Ststus-Shuttle](https://status.shuttlelab.org/)**: Lightweight uptime monitoring.
 - **[File-Shuttle](https://file.shuttlelab.org/)**: High-speed file transfer tool.
 - **[Yaml-Shuttle](https://yaml.shuttlelab.org/)**: Validate, format YAML quickly.
 - **[Json-Shuttle](https://json.shuttlelab.org/)**: Validate, format, and fix JSON quickly.
