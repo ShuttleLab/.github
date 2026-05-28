@@ -11,6 +11,7 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[Json-Shuttle](https://json.shuttlelab.org/)**: Validate, format, and fix JSON quickly.
 - **[Message-Shuttle](https://msg.shuttlelab.org/)**: Simple,fast message relay service.
 - **[ClipBoard-Shuttle](https://clipboard.shuttlelab.org/)**: Sync content across phones, computers, and other devices.
+- **[Image-Shuttle](https://image.shuttlelab.org/)**: Compress & convert images entirely in your browser — no uploads.
 - **[More...](https://shuttlelab.org)**
 
 ### 🌐 Connect with us
