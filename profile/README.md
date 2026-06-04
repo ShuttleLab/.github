@@ -15,6 +15,11 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[Docx-Shuttle](https://docx.shuttlelab.org/)**: Word document format validator.
 - **[Image-Shuttle](https://image.shuttlelab.org/)**: Compress & convert images entirely in your browser — no uploads.
 - **[PDF-Shuttle](https://pdf.shuttlelab.org/)**: Browser-based PDF toolkit — 90+ tools, all client-side.
+- **[Diff-Shuttle](https://diff.shuttlelab.org/)**: Compare text, code, JSON & CSV side by side in your browser.
+- **[QR-Shuttle](https://qr.shuttlelab.org/)**: Generate custom QR codes — colors, logos, WiFi, vCard and more.
+- **[Base64-Shuttle](https://base64.shuttlelab.org/)**: Encode & decode Base64, URL, HTML, Hex, Unicode and JWT.
+- **[URL-Shuttle](https://url.shuttlelab.org/)**: Parse, build, encode and validate URLs.
+- **[Regex-Shuttle](https://regex.shuttlelab.org/)**: Test and debug regular expressions in real time.
 - **[More...](https://shuttlelab.org)**
 
 ### 🌐 Connect with us
