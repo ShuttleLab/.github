@@ -13,7 +13,7 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[Message-Shuttle](https://msg.shuttlelab.org/)**: Simple, fast message relay service.
 - **[Calendar-Shuttle](https://calendar.shuttlelab.org/)**: Calendar & scheduling.
 - **[Docx-Shuttle](https://docx.shuttlelab.org/)**: Word document format validator.
-- **[Image-Shuttle](https://image.shuttlelab.org/)**: Compress & convert images entirely in your browser — no uploads.
+- **[Image-Shuttle](https://image.shuttlelab.org/)**: Free image studio — compress, edit, collage & design, entirely in your browser with no uploads or watermark.
 - **[PDF-Shuttle](https://pdf.shuttlelab.org/)**: Browser-based PDF toolkit — 90+ tools, all client-side.
 - **[Diff-Shuttle](https://diff.shuttlelab.org/)**: Compare text, code, JSON & CSV side by side in your browser.
 - **[QR-Shuttle](https://qr.shuttlelab.org/)**: Generate custom QR codes — colors, logos, WiFi, vCard and more.
