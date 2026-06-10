@@ -5,6 +5,7 @@ A laboratory focused on building high-performance data transfer and productivity
 ### 🧪 Our Lab Projects
 
 - **[Status-Shuttle](https://status.shuttlelab.org/)**: Lightweight uptime monitoring & alerts.
+- **[NetPulse](https://github.com/ShuttleLab/NetPulse)** (Android): Connectivity & exit-IP monitor — checks whether the internet is reachable, shows your exit IP & region, and alerts the moment the connection drops.
 - **[Note-Shuttle](https://note.shuttlelab.org/)**: Markdown editor with encrypted sharing.
 - **[Clipboard-Shuttle](https://clipboard.shuttlelab.org/)**: Sync content across phones, computers, and other devices.
 - **[File-Shuttle](https://file.shuttlelab.org/)**: High-speed file transfer tool.
