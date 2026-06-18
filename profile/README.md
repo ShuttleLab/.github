@@ -5,14 +5,13 @@ A laboratory focused on building high-performance data transfer and productivity
 ### 🧪 Our Lab Projects
 
 - **[Status-Shuttle](https://status.shuttlelab.org/)**: Lightweight uptime monitoring & alerts.
-- **[NetPulse](https://github.com/ShuttleLab/NetPulse)** (Android): Connectivity & exit-IP monitor — checks whether the internet is reachable, shows your exit IP & region, and alerts the moment the connection drops.
+- **[NetPulse](https://netpulse.shuttlelab.org/)** (Android): Connectivity & exit-IP monitor — checks whether the internet is reachable, shows your exit IP & region, and alerts the moment the connection drops.
 - **[Note-Shuttle](https://note.shuttlelab.org/)**: Markdown editor with encrypted sharing.
 - **[Clipboard-Shuttle](https://clipboard.shuttlelab.org/)**: Sync content across phones, computers, and other devices.
 - **[File-Shuttle](https://file.shuttlelab.org/)**: High-speed file transfer tool.
 - **[JSON-Shuttle](https://json.shuttlelab.org/)**: Validate, format, and fix JSON quickly.
 - **[YAML-Shuttle](https://yaml.shuttlelab.org/)**: Validate and format YAML quickly.
 - **[Message-Shuttle](https://msg.shuttlelab.org/)**: Simple, fast message relay service.
-- **[Calendar-Shuttle](https://calendar.shuttlelab.org/)**: Calendar & scheduling.
 - **[Docx-Shuttle](https://docx.shuttlelab.org/)**: Word document format validator.
 - **[Image-Shuttle](https://image.shuttlelab.org/)**: Free image studio — compress, edit, collage & design, entirely in your browser with no uploads or watermark.
 - **[Print-Shuttle](https://print.shuttlelab.org/)**: Design & print certificates, labels, name badges and letterhead in your browser, with Excel variable-data batch printing.
