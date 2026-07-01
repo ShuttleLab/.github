@@ -4,6 +4,7 @@ A laboratory focused on building high-performance data transfer and productivity
 
 ### 🧪 Our Lab Projects
 
+- **[PPT-Shuttle](https://ppt.shuttlelab.org/)**: AI presentation generator — turn a prompt or outline into fully editable PPTX & PDF decks.
 - **[Status-Shuttle](https://status.shuttlelab.org/)**: Lightweight uptime monitoring & alerts.
 - **[NetPulse](https://netpulse.shuttlelab.org/)** (Android): Connectivity & exit-IP monitor — checks whether the internet is reachable, shows your exit IP & region, and alerts the moment the connection drops.
 - **[Note-Shuttle](https://note.shuttlelab.org/)**: Markdown editor with encrypted sharing.
