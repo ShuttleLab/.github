@@ -17,7 +17,7 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[Image-Shuttle](https://image.shuttlelab.org/)**: Free image studio — compress, edit, collage & design, entirely in your browser with no uploads or watermark.
 - **[Print-Shuttle](https://print.shuttlelab.org/)**: Design & print certificates, labels, name badges and letterhead in your browser, with Excel variable-data batch printing.
 - **[PDF-Shuttle](https://pdf.shuttlelab.org/)**: Browser-based PDF toolkit — 90+ tools, all client-side.
-- **[PDF2Docx](https://pdf2docx.shuttlelab.org/)**: Convert PDF to editable Word & PowerPoint — fast, private, no install.
+- **[PDF2Word](https://pdf2docx.shuttlelab.org/)**: Convert PDF to editable Word & PowerPoint — fast, private, no install.
 - **[Diff-Shuttle](https://diff.shuttlelab.org/)**: Compare text, code, JSON & CSV side by side in your browser.
 - **[QR-Shuttle](https://qr.shuttlelab.org/)**: Generate custom QR codes — colors, logos, WiFi, vCard and more.
 - **[Base64-Shuttle](https://base64.shuttlelab.org/)**: Encode & decode Base64, URL, HTML, Hex, Unicode and JWT.
