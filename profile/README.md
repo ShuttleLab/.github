@@ -7,6 +7,7 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[PPT-Shuttle](https://ppt.shuttlelab.org/)**: AI presentation generator — turn a prompt or outline into fully editable PPTX & PDF decks.
 - **[Status-Shuttle](https://status.shuttlelab.org/)**: Lightweight uptime monitoring & alerts.
 - **[NetPulse](https://netpulse.shuttlelab.org/)** (Android): Connectivity & exit-IP monitor — checks whether the internet is reachable, shows your exit IP & region, and alerts the moment the connection drops.
+- **[SMS Forwarder](https://smsforwarder.shuttlelab.org/)** (Android): Forward incoming SMS to your Telegram — verification codes, 2FA, and a remote inbox for a phone left plugged in at home.
 - **[Note-Shuttle](https://note.shuttlelab.org/)**: Markdown editor with encrypted sharing.
 - **[Clipboard-Shuttle](https://clipboard.shuttlelab.org/)**: Sync content across phones, computers, and other devices.
 - **[File-Shuttle](https://file.shuttlelab.org/)**: High-speed file transfer tool.
