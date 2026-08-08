@@ -1,4 +1,4 @@
-# 🚀 Welcome to ShuttleLab
+#  Welcome to ShuttleLab
 
 A laboratory focused on building high-performance data transfer and productivity tools.
 
