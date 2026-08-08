@@ -25,7 +25,7 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[URL-Shuttle](https://url.shuttlelab.org/)**: Parse, build, encode and validate URLs.
 - **[Regex-Shuttle](https://regex.shuttlelab.org/)**: Test and debug regular expressions in real time.
 - **[Time-Shuttle](https://time.shuttlelab.org/)**: Convert Unix timestamps, dates & timezones — all in your browser.
-- **[Secretary-Shuttle](https://secretary.shuttlelab.org/)**: AI-powered personal secretary — drafts, summarizes and organizes your work, right in your browser.
+- **[Secretary-Shuttle](https://secretary.shuttlelab.org/)**: Android assistant for todos, reminders & a journal — type it naturally ("remind me at 8 tomorrow"), get an exact on-device alarm with Telegram & Discord as backup channels.
 - **[More...](https://shuttlelab.org)**
 
 ### 🌐 Connect with us
