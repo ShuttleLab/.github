@@ -26,6 +26,7 @@ A laboratory focused on building high-performance data transfer and productivity
 - **[Regex](https://regex.shuttlelab.org/)**: Test and debug regular expressions in real time.
 - **[Time](https://time.shuttlelab.org/)**: Convert Unix timestamps, dates & timezones — all in your browser.
 - **[Secretary](https://secretary.shuttlelab.org/)**: Android assistant for todos, reminders & a journal — type it naturally ("remind me at 8 tomorrow"), get an exact on-device alarm with Telegram & Discord as backup channels.
+- **[Train Agents](https://pi.dev/packages/pi-train-agents)**: Pi-native extension — evidence-backed gradient descent for your `AGENTS.md`, human-gated. Install via [npm](https://www.npmjs.com/package/pi-train-agents) or [pi.dev](https://pi.dev/packages/pi-train-agents).
 - **[More...](https://shuttlelab.org)**
 
 ### 🌐 Connect with us
